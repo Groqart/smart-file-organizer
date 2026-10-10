@@ -42,4 +42,4 @@ If this script saved you time, consider buying me a coffee or supporting open so
 ---
 
 ## 📜 License
-MIT License. Free to use, modify, and share.
+This project is open-source and available under the [MIT License](LICENSE).
