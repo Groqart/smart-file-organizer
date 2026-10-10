@@ -36,8 +36,8 @@ python file_organizer.py --dry-run
 ## ☕ Support the Author
 If this script saved you time, consider buying me a coffee or supporting open source!
 
-- **Buy Me a Coffee:** [Link to your Buy Me a Coffee / Ko-fi]
-- **Crypto (USDT / USDC TRC20 / Polygon):** `Your_Crypto_Wallet_Address_Here`
+(- **Buy Me a Coffee:** [Link to your Buy Me a Coffee / Ko-fi])
+- **Crypto (USDT / USDC TRC20 / Polygon):** `UQCqAuP8-ToqGPnkWpkWAmOeWKNtMaAI2g4KDtlXuZR00ZyB`
 
 ---
 
