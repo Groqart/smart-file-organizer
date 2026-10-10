@@ -9,7 +9,7 @@ A lightning-fast, zero-dependency Python CLI tool that instantly cleans up and o
 - **Smart Categorization:** Automatically sorts files into `Images`, `Documents`, `Code`, `Archives`, `Media`, `Executables`, and `Others`.
 - **Safe Mode:** Supports `--dry-run` to preview changes before moving any files.
 - **Collision Safe:** Handles file name conflicts automatically (renames duplicates safely).
-
+<img src="Example.png" width="1080">
 ---
 
 ## 🚀 Quick Start
