@@ -35,8 +35,10 @@ python file_organizer.py --dry-run
 
 ## ☕ Support the Author
 If this script saved you time, consider buying me a coffee or supporting open source!
-- **ETH / BNB (EVM):** `0xccd8E84dCD72ff393d1E67928fe00999a60Aef00` (QR: `ETH.png`, `BNB.png`)
-- **TON:** `UQCqAuP8-ToqGPnkWpkWAmOeWKNtMaAI2g4KDtlXuZR00ZyB` (QR: `TON.png`)
+| ETH / BNB (EVM) | TON |
+| :---: | :---: |
+| `0xccd8E84dCD72ff393d1E67928fe00999a60Aef00` | `UQCqAuP8-ToqGPnkWpkWAmOeWKNtMaAI2g4KDtlXuZR00ZyB` |
+| <img src="ETH.png" width="150"> <img src="BNB.png" width="150"> | <img src="TON.png" width="150"> |
   
 ---
 
